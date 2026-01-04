@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { supabase } from './supabaseClient'
-import ApplicationForm from './components/ApplicationForm'
+import ApplicationForm from './components/applicationForm'
 import ApplicationList from './components/applicationList'
 import StatsCard from './components/statsCard'
 import TimelineChart from './components/TimelineChart'
